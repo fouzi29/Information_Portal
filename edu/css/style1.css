@@ -1,0 +1,156 @@
+
+body{
+ background-image: linear-gradient(#4c131a,#4c131a);
+   
+}
+#bd0{
+ width: 1200px ;
+  
+ margin:0 auto;
+ box-sizing:border-box;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px black;
+ 
+}
+.navbar{
+    border-bottom: 1px solid #fff;
+    background:#4c131a;
+   height: 45px;
+    color: #000;
+      box-sizing:border-box;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px black;
+  }
+
+  .mydiv{
+
+    background-image: linear-gradient(to right,#ffebee,#ffebee,#ffebee);
+    height:90px;
+    margin-top:0px;
+    
+}
+
+ .mydiv2{
+ 	    background-color: #4c131a;
+      height:59px;
+      position: absolute;
+      z-index: 14;
+      
+  }
+
+     ul{
+      list-style-type: none;
+
+    }
+  .mydiv2 ul{
+      margin-left: -16px;
+
+    }
+
+    .mydiv2 ul li{
+
+      float: left;
+      border-right:1px solid red;
+      padding-left:10px;
+      padding-right:5px;
+    }
+
+    .mydiv2 ul li:last-child{
+      border-right: none;
+    }
+
+    .mydiv2 ul li a{
+      display: block;
+      padding:9px 3px;
+      color: white;
+    }
+    .mydiv2 ul li:hover{
+     background-color:#00768E;
+     color: black;
+     transition: 0.5s;
+    }
+
+    .headers{
+      background-color:yellow;
+      width:100%;
+      margin-left:-15px;
+      height: 40px;
+      color:black;
+      padding: 8px;
+      margin-top:1px;
+    }
+.dropdown-menu a {
+     background-color:  #4c131a ;
+     margin-top:-11px;
+     margin-left: -2px;
+     margin-bottom:-10px;
+     width: 207px;
+     border: 1px solid red;
+     padding-bottom: 5px;
+ }
+  .dropdown-menu a:last-child{
+     background-color:  #4c131a ;
+     margin-bottom:-10px;
+ }
+.dropdown-menu a:hover{
+     background-color: #00768E ;
+     color: black;
+     transition: 0.5s;
+
+ }
+
+.forms{
+margin-top:80px;
+background-color: #D6E6F2 ;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td img{
+  height: 300px;
+  width: 400px;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  color: black;
+  background-color: #ffebee;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+h2{
+  color:white;
+}
+
+#slide0{
+	margin-top: 78px;
+}
+#wrapper{ 
+   height: 300px;
+  
+}
+
+
+
+
+
+ #foot0{
+   color: #08271E;
+   background-image: linear-gradient(#ffebee,#ffebee);
+   
+  text-align: center;
+  padding-top:10px;
+  margin-top:2px;
+  margin-left:0px;
+   left: 0;
+   bottom: 0;
+   height:10%;
+   width: 100%;
+  
+ }
+ 

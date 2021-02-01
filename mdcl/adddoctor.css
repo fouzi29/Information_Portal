@@ -1,0 +1,79 @@
+body
+{
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color:#3AAFA9;
+    background-size: cover;
+}
+
+#ADDINGDOCTOR
+{
+	color:black;
+    background: rgba(0,0, 0, 0.5);
+    
+    padding: 80px;
+    width: 280px;
+    margin: auto;
+    margin-top:60px;
+    height:475px;
+    margin-left: 570px;
+    
+}
+form
+{
+   
+    text-align: center;
+}
+#rgfrom{
+	margin-top:20px;
+}
+input
+{
+    width: 300px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-size: 16px;
+    font-weight: 200px; 
+    text-align: center;
+    padding: 10px 0px;
+    transition: border 0.5s;
+    outline: none;
+    color:white; 
+}
+input[type=submit]
+{
+    border: none;
+    width:115px;
+    background: white;
+    color: black;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 30px;
+    cursor: pointer;
+}
+input[type=submit]:hover
+{
+    color: #fff;
+    background-color:black;
+}
+h2
+{
+    color: white;
+    
+}
+a
+{
+    color: red;
+    text-decoration:none;
+}
+a:hover
+{background-color: black;
+    color:green;
+}
+#container
+{
+	margin-top: 5px;
+    color: yellow;
+}

@@ -1,0 +1,21 @@
+
+.containter{
+margin-right:200px;
+width:700px;
+border: 2px solid orange;
+border-radius: 10px;
+}
+.btn {
+    background:gray;
+
+
+  }
+  .navbar-nav{
+  margin-left: 20px;
+  }
+
+.nav2{
+    border-bottom: 2px solid gray  ;
+    padding: 2px;
+
+    }
